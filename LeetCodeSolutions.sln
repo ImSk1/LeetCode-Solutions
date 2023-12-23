@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27.Remove-Element", "27.Remove-Element\27.Remove-Element.csproj", "{8E866A25-99CE-4C2B-8AF1-D34261410943}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27.Remove-Element", "27.Remove-Element\27.Remove-Element.csproj", "{8E866A25-99CE-4C2B-8AF1-D34261410943}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26.Remove-Duplicates-From-Sorted-Array", "26.Remove-Duplicates-From-Sorted-Array\26.Remove-Duplicates-From-Sorted-Array.csproj", "{4E7D03F1-AA15-4E75-B2A6-592358EADDE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26.Remove-Duplicates-From-Sorted-Array", "26.Remove-Duplicates-From-Sorted-Array\26.Remove-Duplicates-From-Sorted-Array.csproj", "{4E7D03F1-AA15-4E75-B2A6-592358EADDE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.TwoSum", "1.TwoSum\1.TwoSum.csproj", "{47F96A46-75E9-49E3-A5B1-7C0A2D4058AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4E7D03F1-AA15-4E75-B2A6-592358EADDE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E7D03F1-AA15-4E75-B2A6-592358EADDE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E7D03F1-AA15-4E75-B2A6-592358EADDE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F96A46-75E9-49E3-A5B1-7C0A2D4058AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F96A46-75E9-49E3-A5B1-7C0A2D4058AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F96A46-75E9-49E3-A5B1-7C0A2D4058AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F96A46-75E9-49E3-A5B1-7C0A2D4058AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
